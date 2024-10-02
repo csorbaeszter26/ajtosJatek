@@ -6,4 +6,9 @@ Ajtós játék leírás:
 - megkapjuk eredményül, hogy ott van-e az autó vagy nincs
 - 3 dolgot látunk, ami számlálódik: mennyit találtunk el cserével; mennyit találtunk el elsőre
 
-
+Egyéb info:
+- ajtók tartalma minden körben random
+- számolni kell a találatokat, a két féle korábban említett módon
+- miután cserével vagy anélkül a user eltalálja, hozzáadódik a számlálóhoz, és kiíródik a megfelelő helyre ez a szám az ablakon
+- ezután kezdődik újra, anélkül, hogy bezáródna a játék
+- akármennyit lehet vele játszani, a számláló mindíg számol és kiír
