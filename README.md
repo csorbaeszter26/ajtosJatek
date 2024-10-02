@@ -23,5 +23,4 @@ Terv ötlet:
 ((- nem tudom hogyan lehetne kinyitni az ajtót, talán elég oda kiírni valami textfieldbe rá hogy "ITT NINCS AUTO" vagy "ITT KECSKE VAN" vagy csak szimplán eltűnik az ajtó vagy ilyesmi ))
 - előbbi helyett jobb ötlet: csak kiíródik a text fielbe hogy a jobb vagy bal vagy középső ajtó ami kinyitódott meg üres
 
-Kép:
 <img width="387" alt="image" src="https://github.com/user-attachments/assets/46cd60b4-052d-4a79-897d-e84d45e6a761">
