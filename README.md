@@ -18,5 +18,6 @@ Terv ötlet:
 - az ajtóra rákattint a user, ekkor megjelenik a textfieldben a szöveg arról, hogy szeretne -e cserélni vagy sem
 - eddig a gombokat nem tudta nyomogatni, de ezután tudja
 - gombnyomásnak megfelelően történnek az események a korábbiakban említettek szerint
-- ezután, ennek megfelelően szöveges uzenetben megjelenik a textfieldben, hogy eltalálta-e vagy sem, és a számláló növekszik
-- 
+- ezután, ennek megfelelően szöveges uzenetben megjelenik a textfieldben, hogy eltalálta-e vagy sem (és a már benne lévő üzenet kitörlődik), és valamelyik számláló növekszik
+- a számlálást mindíg a "lblCsvelSzamlalo" és a "lblCsNSzamlalo" label területre írja ki és frissíti
+- nem tudom hogyan lehetne kinyitni az ajtót, talán elég oda kiírni valami textfieldbe rá hogy "ITT NINCS AUTO" vagy "ITT KECSKE VAN" vagy csak szimplán eltűnik az ajtó vagy ilyesmi 
