@@ -20,4 +20,5 @@ Terv ötlet:
 - gombnyomásnak megfelelően történnek az események a korábbiakban említettek szerint
 - ezután, ennek megfelelően szöveges uzenetben megjelenik a textfieldben, hogy eltalálta-e vagy sem (és a már benne lévő üzenet kitörlődik), és valamelyik számláló növekszik
 - a számlálást mindíg a "lblCsvelSzamlalo" és a "lblCsNSzamlalo" label területre írja ki és frissíti
-- nem tudom hogyan lehetne kinyitni az ajtót, talán elég oda kiírni valami textfieldbe rá hogy "ITT NINCS AUTO" vagy "ITT KECSKE VAN" vagy csak szimplán eltűnik az ajtó vagy ilyesmi 
+((- nem tudom hogyan lehetne kinyitni az ajtót, talán elég oda kiírni valami textfieldbe rá hogy "ITT NINCS AUTO" vagy "ITT KECSKE VAN" vagy csak szimplán eltűnik az ajtó vagy ilyesmi ))
+- előbbi helyett jobb ötlet: csak kiíródik a text fielbe hogy a jobb vagy bal vagy középső ajtó ami kinyitódott meg üres
