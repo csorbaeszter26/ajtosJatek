@@ -12,3 +12,11 @@ Egyéb info:
 - miután cserével vagy anélkül a user eltalálja, hozzáadódik a számlálóhoz, és kiíródik a megfelelő helyre ez a szám az ablakon
 - ezután kezdődik újra, anélkül, hogy bezáródna a játék
 - akármennyit lehet vele játszani, a számláló mindíg számol és kiír
+- új játékot is tud választani
+
+Terv ötlet:
+- az ajtóra rákattint a user, ekkor megjelenik a textfieldben a szöveg arról, hogy szeretne -e cserélni vagy sem
+- eddig a gombokat nem tudta nyomogatni, de ezután tudja
+- gombnyomásnak megfelelően történnek az események a korábbiakban említettek szerint
+- ezután, ennek megfelelően szöveges uzenetben megjelenik a textfieldben, hogy eltalálta-e vagy sem, és a számláló növekszik
+- 
